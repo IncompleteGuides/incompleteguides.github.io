@@ -2,7 +2,11 @@
 
 ### The InComplete Guide to Academic Writing in Robotics Research
 
-Download the latest pdf [HERE](https://incompleteguides.github.io/pdfs/incomplete_guide_latest.pdf).
+A [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) licensed guide for academic writing in robotics research. In this guide, we discuss the common pitfalls and caveats of academic writing focusing on first-time writers (often {under}graduate students) in the field of robotics and related areas.
+
+- Download the latest `.pdf` [HERE](https://incompleteguides.github.io/pdfs/incomplete_guide_latest.pdf).
+
+
 
 
 <!--
