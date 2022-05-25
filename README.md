@@ -3,6 +3,9 @@
 ### The InComplete Guide to Academic Writing in Robotics Research
 
 Download the latest pdf [HERE]().
+
+
+
 <!--
 You can use the [editor on GitHub](https://github.com/IncompleteGuides/incompleteguides.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
