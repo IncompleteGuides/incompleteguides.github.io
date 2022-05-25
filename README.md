@@ -2,8 +2,7 @@
 
 ### The InComplete Guide to Academic Writing in Robotics Research
 
-Download the latest pdf [HERE]().
-
+Download the latest pdf [HERE](https://incompleteguides.github.io/pdfs/incomplete_guide_latest.pdf).
 
 
 <!--
