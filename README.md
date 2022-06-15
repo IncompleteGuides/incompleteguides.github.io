@@ -9,7 +9,7 @@ A [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) licensed
 Be aware that this website is, by definition, incomplete like the InComplete Guide and permanently under construction.
 
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://incompleteguides.github.io/figs/under_construction.png)" />
+  <img src="https://incompleteguides.github.io/figs/under_construction.png?raw=true" alt="Vintage under construction logo"/>
 </p>
 
 
