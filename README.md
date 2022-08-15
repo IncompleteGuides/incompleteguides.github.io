@@ -5,15 +5,13 @@
 A [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) licensed guide for academic writing in robotics research. In this guide, we discuss the common pitfalls and caveats of academic writing focusing on first-time writers (often {under}graduate students), and sometimes on not so novice ones, in the field of robotics and related areas.
 
 - Download the latest `.pdf` [HERE](https://incompleteguides.github.io/pdfs/incomplete_guide_latest.pdf).
-<p id="modifiable_date"></p>
-
-Be aware that this website is, by definition, incomplete like the InComplete Guide and permanently under construction.
-
-<p align="center">
-  <img src="https://incompleteguides.github.io/figs/under_construction.png?raw=true" alt="Vintage under construction logo"/>
+<p id="modifiable_date">
+ 15/08/2022 23:09:14 UTC
 </p>
-
-
+Be aware that this website is, by definition, incomplete like the InComplete Guide and permanently under construction.
+<p align="center">
+ <img alt="Vintage under construction logo" src="https://incompleteguides.github.io/figs/under_construction.png?raw=true"/>
+</p>
 <!--
 You can use the [editor on GitHub](https://github.com/IncompleteGuides/incompleteguides.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
